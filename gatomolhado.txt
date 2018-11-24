@@ -1,0 +1,6 @@
+%%%% HASHDEEP-1.0
+%%%% size,md5,sha256,filename
+## Invoked from: /home/ninjadev/estudos_python/PEDEMOLEQUE
+## $ hashdeep gatomolhado.pcap
+## 
+6672338,fdea78ed3e16a673b67d3aca9e3199bc,ec67f53c92f28d3dcd1e18e78b7011b6194c752ed83d3335e40b7a67efaaf3cf,/home/ninjadev/estudos_python/PEDEMOLEQUE/gatomolhado.pcap
